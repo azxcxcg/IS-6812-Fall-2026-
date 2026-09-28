@@ -1,5 +1,5 @@
 # IS-6812-Fall-2026-
 
-Initial assignment to create README file in new repository.
+Updated 27Sep2026.
 
-Changing file for assignment.
+See the "data_preparation_27sep2026" file for a script to clean and prepare the train & test data for the Home Credit Default Risk project. It will upload the data, clean it, and prepare it to be used for training and testing.
